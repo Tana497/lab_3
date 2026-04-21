@@ -17,3 +17,4 @@ https://colab.research.google.com/drive/1nPUbZyt_vY_qcaiLeZqPSpU04yExP8dP?usp=sh
 https://colab.research.google.com/drive/1TLl_TPnG1WxVlkRGTbVquHtlT3IWzn-r?usp=sharing
 
 Посилання на КР:
+https://colab.research.google.com/drive/1b7nKLpIGl0V3dQ1kdURudoCGCK47Qz5r?usp=sharing
